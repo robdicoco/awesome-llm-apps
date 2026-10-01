@@ -189,7 +189,7 @@ scikit-learn==1.6.1
 scipy==1.15.2
 screeninfo==0.8.1
 segments==2.3.0
-sentence-transformers==4.1.0
+sentence-transformers==5.6.0
 sgmllib3k==1.0.0
 shellingham==1.5.4
 smart-open==7.1.0
