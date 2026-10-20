@@ -62,7 +62,7 @@ flexcache==0.3
 flexparser==0.4
 flower==2.0.1
 frozenlist==1.6.0
-fsspec==2025.3.2
+fsspec==2026.6.0
 gitdb==4.0.12
 GitPython==3.1.44
 gnews==0.4.1
